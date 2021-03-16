@@ -1,0 +1,60 @@
+{
+    "collection": "events",
+    "database": "CPE",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "read": true,
+            "write": false,
+            "insert": false,
+            "delete": false,
+            "search": true,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {
+        "properties": {
+            "Category": {
+                "bsonType": "array",
+                "items": {
+                    "bsonType": "string"
+                }
+            },
+            "City": {
+                "bsonType": "string"
+            },
+            "Country": {
+                "bsonType": "string"
+            },
+            "End": {
+                "bsonType": "date"
+            },
+            "Event": {
+                "bsonType": "string"
+            },
+            "Rating": {
+                "bsonType": "double"
+            },
+            "Start": {
+                "bsonType": "date"
+            },
+            "State": {
+                "bsonType": "string"
+            },
+            "Type": {
+                "bsonType": "string"
+            },
+            "_id": {
+                "bsonType": "objectId"
+            },
+            "coordinates": {
+                "bsonType": "array",
+                "items": {
+                    "bsonType": "double"
+                }
+            }
+        },
+        "title": "event"
+    }
+}

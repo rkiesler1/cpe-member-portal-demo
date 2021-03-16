@@ -1,0 +1,14 @@
+{
+    "app_id": "cpedemo-qribd",
+    "config_version": 20200603,
+    "name": "CPEDemo",
+    "location": "US-OR",
+    "deployment_model": "LOCAL",
+    "security": {},
+    "custom_user_data_config": {
+        "enabled": false
+    },
+    "sync": {
+        "development_mode_enabled": false
+    }
+}
