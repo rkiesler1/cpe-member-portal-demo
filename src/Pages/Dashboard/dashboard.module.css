@@ -1,10 +1,58 @@
-.logoutBtn {
-	height: '30px';
-	width: '100px';
+.logoutBtn:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.logout {
+	display: flex;
+	height: 100%;
+}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-text:hover {
+	background-color: rgba(0,0,0,0) !important;
 }
 
 .dashboardPage {
 	display: flex;
-	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
 	justify-content: space-between;
+}
+
+.dashboardMain {
+	align-items: center;
+	justify-content: space-between;
+}
+
+.calIcon {
+	
+	background-image: url(/content-calendar@4x.png);
+	background-repeat:no-repeat;
+   	background-size:contain;
+	font-weight: 700;
+	height: 5em;
+	line-height: 5em;
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.catRect {
+    display: inline-block;
+    padding: 0 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 0 3px 3px 0;
+}
+
+.rkPagination {
+	border: 1px solid #e0e3e5;
+	background: #f2f3f3;
+}
+
+.searchBarContainer {
+	width: 80%;
+}
+
+.searchBar {
+	background-color: #fff;
 }

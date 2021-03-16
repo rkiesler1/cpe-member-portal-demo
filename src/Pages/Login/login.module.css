@@ -1,25 +1,30 @@
 .container {
-	min-height: 100vh;
-	width: 100%;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .formContainer {
-	width: 200px;
+    width: 200px;
 }
 .error {
-	font-size: 0.8rem;
-	color: #bb0000;
+    font-size: 0.8rem;
+    color: #bb0000;
 }
 
 .loginForm {
-	display: flex;
-	flex-direction: column;
+    display: flex;
+    width: 250px;
+    flex-direction: column;
+	background-color: #dfeefc;
+	padding: 2em;
+	border: 1px solid #676767;
+	border-radius: 4px;
 }
 
 .loginFormItem {
-	display: flex;
-	flex-direction: column;
-	margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
 }

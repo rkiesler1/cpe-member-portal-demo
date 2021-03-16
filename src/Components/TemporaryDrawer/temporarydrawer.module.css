@@ -1,0 +1,10 @@
+.accountBox {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.accountPrefs {
+    width: 300px;
+    margin: 1em;
+}

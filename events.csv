@@ -1,0 +1,100 @@
+Rank,Event,Type,Start,End,City,State,Category,Rating
+1,International Conference on Agricultural and Biological Science,Conference,23 Mar 2021,24 Mar 2021,Miami,FL,"Agriculture & Forestry|Science & Research",4.0
+2,International Conference on Agricultural and Biosystems Engineering,Conference,02 Apr 2021,03 Apr 2021,New York,NY,"Agriculture & Forestry|Science & Research",4.1
+3,International Conference on Fisheries and Aquatic Sciences,Conference,02 Apr 2021,03 Apr 2021,New York,NY,"Agriculture & Forestry|Science & Research",4.4
+4,SATELLITE Conference & Exhibition,Exhibition,26 Jul 2021,29 Jul 2021,Washington,DC,"Telecommunication|Science & Research",4.0
+5,Southwest Believers Convention,Conference,02 Aug 2021,07 Aug 2021,Fort Worth,TX,"Science & Research|Education & Training",4.8
+6,Multidisciplinary Conference in Boston,Conference,26 May 2020,30 May 2020,Cambridge,MA,"Science & Research|Education & Training",4.5
+7,International Conference on Biotechnology and Bioengineering,Conference,02 Apr 2021,03 Apr 2021,New York,NY,"Medical & Pharma|Science & Research",4.0
+8,International Conference on Environment and Natural Science,Conference,16 Jun 2021,17 Jun 2021,Queens,NY,"Science & Research|Environment & Waste",3.0
+9,International Conference on Aerospace and Mechanical Engineering,Conference,02 Apr 2021,03 Apr 2021,New York,NY,"Industrial Engineering|Science & Research",5.0
+10,Building Innovation Conference & Expo,Exhibition,16 Aug 2020,19 Aug 2020,Washington,DC,"Building & Construction|Science & Research",3.8
+11,International Conference on Environment and Natural Science,Conference,22 Aug 2021,23 Aug 2021,Chicago,IL,"Science & Research|Environment & Waste",3.5
+12,International Conference on Economics and Financial Engineering,Conference,02 Apr 2021,03 Apr 2021,New York,NY,"Science & Research|Banking & Finance",4.5
+13,Chronic Total Occlusion Summit,Conference,19 Feb 2021,20 Feb 2021,New York,NY,"Medical & Pharma|Science & Research",4.7
+14,Aipac Policy Conference,Conference,07 Mar 2021,09 Mar 2021,Washington,DC,"Science & Research|IT & Technology",4.6
+15,International Conference on Environmental and Ecological Engineering,Conference,02 Apr 2021,03 Apr 2021,New York,NY,"Science & Research|Environment & Waste",0
+16,Antibody Engineering And Therapeutics Conference,Conference,13 Dec 2021,17 Dec 2021,San Diego,CA,"Medical & Pharma|Science & Research",4.2
+17,SPIE Photonics West,Exhibition,06 Mar 2021,11 Mar 2021,San Francisco,CA,"Electric & Electronics|Science & Research",4.3
+18,Radiological Society of North America - Scientific Assembly and Meeting,Conference,28 Nov 2021,02 Dec 2021,Chicago,IL,"Medical & Pharma|Science & Research",5.0
+19,Complex Cardiovascular Catheter Therapeutics,Conference,27 Jun 2021,30 Jun 2021,Orlando,FL,"Medical & Pharma|Science & Research",4.9
+20,Annual BIO CEO & Investor Conference,Conference,16 Feb 2021,18 Feb 2021,New York,NY,"Medical & Pharma|Science & Research",3.3
+21,"Annual Arts, Humanities, Social Sciences & Education Conference",Conference,09 Jun 2021,11 Jun 2021,Honolulu,HI,"Science & Research|Education & Training",4.8
+22,International Conference on Human Rights and Human Dignity,Conference,13 May 2021,14 May 2021,Miami,FL,"Science & Research|Education & Training",0
+23,Shepherds 360 National Church Leaders Conference,Conference,18 Oct 2021,20 Oct 2021,Cary,NC,"Science & Research|Education & Training",5.0
+24,Team Church Conference,Conference,02 Aug 2021,04 Aug 2021,Tacoma,WA,"Science & Research|Education & Training",0
+25,International Conference On Environment And Natural Science,Conference,17 May 2021,18 May 2021,Denver,CO,"Science & Research|Environment & Waste",4.0
+26,Indiana Safety And Health Conference & Expo,Exhibition,01 Mar 2021,03 Mar 2021,Indianapolis,IN,"Medical & Pharma|Science & Research",2.0
+27,"International Conference on Science, Engineering & Technology",Conference,18 Aug 2021,19 Aug 2021,New Orleans,LA,"Science & Research|IT & Technology",5.0
+28,International Conference on Biodiversity and Ecosystems,Conference,02 Apr 2021,03 Apr 2021,New York,NY,"Science & Research",0
+29,Northwest Astrological Conference,Conference,21 May 2020,25 May 2020,Seattle,WA,"Science & Research|Education & Training",5.0
+30,PCRI Mid-Year Update,Conference,28 Mar 2020,28 Mar 2020,Los Angeles,CA,"Medical & Pharma|Science & Research",4.8
+31,Northeast Astronomy Forum & Telescope Show,Exhibition,04 Apr 2020,05 Apr 2020,Mahwah,NJ,"Industrial Engineering|Science & Research",4.8
+32,Esri User Conference,Conference,12 Jul 2021,16 Jul 2021,San Diego,CA,"Science & Research|IT & Technology",5.0
+33,International Conference on Mechanical and Aerospace Engineering,Conference,16 Sep 2021,17 Sep 2021,Boston,MA,"Industrial Engineering|Science & Research",3.3
+34,"International Conference for Aerospace Experts, Academics, Military Personnel and Industry Leaders",Conference,06 Mar 2021,13 Mar 2021,Big Sky,MT,"Science & Research",5.0
+35,"International Conference On Control, Automation, Robotics And Engineering",Conference,17 May 2021,18 May 2021,Denver,CO,"Industrial Engineering|Science & Research",0
+36,Academic and Business Research Institute International Conference,Conference,07 Jan 2022,08 Jan 2022,Orlando,FL,"Science & Research",0
+37,Applied and Environmental Microbiology Conference,Conference,18 Jul 2021,23 Jul 2021,Hadley,MN,"Science & Research|Environment & Waste",0
+38,Silicon Valley International Invention Festival,Exhibition,23 Jun 2020,25 Jun 2020,Santa Clara,CA,"Science & Research|IT & Technology",3.6
+39,SPIE Optics + Photonics,Exhibition,01 Aug 2021,05 Aug 2021,San Diego,CA,"Electric & Electronics|Science & Research",4.3
+40,"International Conference on Science, Technology, Engineering and Management",Conference,22 Apr 2021,23 Apr 2021,Chicago,IL,"Science & Research",4.5
+41,Small Satellite Conference,Conference,07 Aug 2021,12 Aug 2021,Logan,UT,"Science & Research",5.0
+42,CBD Expo EAST,Exhibition,27 Aug 2021,28 Aug 2021,Orlando,FL,"Medical & Pharma|Science & Research",4.5
+43,Athletic Training and Sports Medicine Conference,Conference,30 Jan 2021,03 Feb 2022,Big Sky,MT,"Medical & Pharma|Science & Research",5.0
+44,Psychotherapy Networker Symposium,Conference,18 Mar 2021,21 Mar 2021,Washington,DC,"Medical & Pharma|Science & Research",4.7
+45,International Conference on Geological and Environmental Engineering,Conference,02 Apr 2021,03 Apr 2021,New York,NY,"Science & Research",0
+46,SPIE Organic Photonics and Electronics,Conference,01 Aug 2021,05 Aug 2021,San Diego,CA,"Electric & Electronics|Science & Research",4.0
+47,International Conference on Bioengineering and Life Sciences,Conference,02 Apr 2021,03 Apr 2021,New York,NY,"Science & Research",4.0
+48,International Crisis & Risk Communication Conference,Conference,09 Mar 2020,11 Mar 2020,Orlando,FL,"Science & Research|Education & Training",4.5
+49,"New York,NY, Youth Summit",Conference,27 Mar 2020,27 Mar 2020,Brooklyn,NY,"Science & Research|Business Services",5.0
+50,Theology Conference,Conference,02 Apr 2020,03 Apr 2020,Wheaton,IL,"Science & Research|Education & Training",4.0
+51,Laser & Aesthetic Skin Therapy: What's the Truth?,Conference,29 Oct 2021,30 Oct 2021,Boston,MA,"Electric & Electronics|Science & Research",5.0
+52,CannaGrow Expo,Exhibition,17 Apr 2020,18 Apr 2020,Chicago,IL,"Medical & Pharma|Science & Research",0
+53,Sedona Vedic Astrology Conference,Conference,19 Nov 2020,23 Nov 2020,Sedona,AZ,"Science & Research|Education & Training",4.0
+54,Society for Social Work and Research Annual Conference,Conference,12 Jan 2022,16 Jan 2022,Washington,DC,"Science & Research",4.3
+55,Life Sciences Summit,Conference,17 Nov 2020,18 Nov 2020,New York,NY,"Medical & Pharma|Science & Research",4.0
+56,International Conference on Physical & Life Sciences,Conference,27 Apr 2021,28 Apr 2021,Brooklyn,NY,"Science & Research|Education & Training",0
+57,The Dupont Summit,Conference,03 Dec 2021,03 Dec 2021,Washington,DC,"Science & Research|Education & Training",4.9
+58,Aerospace Raw Materials & Manufacturers Supply Chain Conference,Conference,07 Jun 2021,07 Jun 2021,Beverly Hills,CA,"Science & Research|Logistics & Transportation",4.0
+59,"New York,NY, City Education & Social Sciences Conference",Conference,17 Aug 2020,20 Aug 2020,New York,NY,"Science & Research|Education & Training",0
+60,Solar Summit,Conference,27 Oct 2020,28 Oct 2020,Phoenix,AZ,"Science & Research|Education & Training",0
+61,USA Science & Engineering Festival,Exhibition,25 Apr 2020,26 Apr 2020,Washington,DC,"Science & Research|Education & Training",5.0
+62,QUANTUM CONSCIOUSNESS IN DISCLOSURE,Conference,19 Mar 2021,21 Mar 2021,Las Vegas,NV,"Science & Research",0
+63,Interdisciplinary Plant Group Symposium,Conference,24 May 2021,26 May 2021,Columbia,MD,"Science & Research|Environment & Waste",4.0
+64,Advanced Manufacturing Expo,Exhibition,27 Jul 2021,27 Jul 2021,Novi,MI,"Industrial Engineering|Science & Research",4.0
+65,International Criminology Conference,Conference,05 Nov 2021,05 Nov 2021,Washington,DC,"Science & Research",4.3
+66,MRS Fall Meeting & Exhibit,Exhibition,28 Nov 2021,03 Dec 2021,Boston,MA,"Industrial Engineering|Science & Research",0
+67,Leadership And Management Skills For Women,Exhibition,19 Jun 2020,19 Jun 2020,Phoenix,AZ,"Science & Research|Education & Training",2.0
+68,"International Conference on Nanoscience, Nanotechnology & Advanced Materials",Conference,23 Mar 2021,24 Mar 2021,Miami,FL,"Science & Research",0
+69,Annual Forensic Psychology Symposium,Conference,18 Mar 2021,20 Mar 2021,San Diego,CA,"Medical & PharmaScience & Research",4.5
+70,Worship Together Conference,Conference,27 Jun 2021,29 Jun 2021,Franklin,TN,"Science & Research|Education & Training",0
+71,Carolina Christian Youth Conference,Conference,12 Feb 2021,14 Feb 2021,Winston-Salem,NC,"Science & Research|Education & Training",4.3
+72,Minnesota Water Resources Conference,Conference,13 Oct 2020,14 Oct 2020,Saint Paul,MN,"Science & Research|Environment & Waste",5.0
+73,SupplySide East,Exhibition,22 Jun 2021,23 Jun 2021,Secaucus,NJ,"Science & Research|Wellness, Health & Fitness",4.5
+74,"International Conference on Nanoscience, Nanotechnology & Advanced Materials",Conference,16 Aug 2021,17 Aug 2021,Boston,MA,"Science & Research|IT & Technology",4.0
+75,"Out of Chicago,IL Conference",Conference,23 Aug 2020,27 Aug 2020,Glencoe,IL,"Science & Research|Education & Training",0
+76,"Conference on Language, Learning, and Culture",Conference,10 Apr 2020,11 Apr 2020,Fairfax,VA,"Science & Research|Education & Training",0
+77,Great Lakes Astrology Conference,Conference,25 Jun 2021,27 Jun 2021,Ann Arbor,MI,"Science & Research|Education & Training",0
+78,International Refining and Petrochemical Conference Americas,Conference,22 Sep 2020,23 Sep 2020,Houston,TX,"Science & Research|Power & Energy",3.0
+79,International Conference on Opioids,Conference,12 Jun 2021,15 Jun 2021,Boston,MA,"Medical & Pharma|Science & Research",3.0
+80,One Marriage Conference,Conference,25 Feb 2022,26 Feb 2022,Gainesville,TX,"Science & Research|Education & Training",5.0
+81,Internet of Things Applications,Conference,18 Nov 2020,19 Nov 2020,Santa Clara,CA,"Science & Research|IT & Technology",0
+82,Student Conference on Conservation Science,Conference,24 Mar 2020,26 Mar 2020,Cambridge,MA,"Science & Research|Education & Training",5.0
+83,Magnetics,Conference,08 Feb 2022,09 Feb 2022,Orlando,FL,"Science & Research|IT & Technology",4.5
+84,Open Data Science Conference,Conference,29 Oct 2020,30 Oct 2020,Burlingame,CA,"Science & Research|IT & Technology",4.0
+85,Traditional Roots Herbal Conference,Conference,15 May 2020,17 May 2020,Portland,OR,"Medical & Pharma|Science & Research",0
+86,International Conference on Engineering and Natural Science,Conference,22 Apr 2021,23 Apr 2021,Chicago,IL,"Industrial Engineering|Science & Research",0
+87,International Conference On Mechanical And Aerospace Engineering,Conference,23 Apr 2021,24 Apr 2021,Miami,FL,"Industrial Engineering|Science & Research",5.0
+88,International School Of Hydrocarbon Measurement Conference & Expo,Exhibition,11 May 2021,13 May 2021,Oklahoma,PA,"Industrial Engineering|Science & Research",4.0
+89,Symposium on Worship,Conference,28 Jan 2021,30 Jan 2021,Grand Rapids,MI,"Science & Research",0
+91,Specialty & Custom Chemicals Show,Exhibition,14 Apr 2021,16 Apr 2021,Fort Worth,TX,"Science & Research",5.0
+92,Peptalk,Conference,18 Jan 2021,22 Jan 2021,San Diego,CA,"Science & Research",4.0
+93,"International Conference on Science, Engineering & Technology",Conference,22 Jul 2021,23 Jul 2021,Chicago,IL,"Science & Research|IT & Technology",0
+94,Future of Individualized Medicine,Conference,12 Mar 2020,13 Mar 2020,San Diego,CA,"Medical & Pharma|Science & Research",5.0
+95,International Conference on Social Science & Humanities,Conference,26 Jun 2021,27 Jun 2021,Las Vegas,NV,"Science & Research|Education & Training",2.0
+96,Cleveland National Air Show,Exhibition,04 Sep 2021,06 Sep 2021,Cleveland,OH,"Science & Research",0
+97,Laserfiche Empower,Conference,23 Feb 2021,26 Feb 2021,Long Beach,CA,"Electric & Electronics|Science & Research",4.1
+98,"International Conference on Peace, Humanitarian Aid and Service",Conference,15 Dec 2020,16 Dec 2020,Miami,FL,"Science & Research",4.0
+99,Advanced Manufacturing Expo,Exhibition,29 Jul 2021,29 Jul 2021,Grand Rapids,MI,"Industrial Engineering|Science & Research",4.0
+100,International Conference On Science Technology And Management,Conference,16 Sep 2021,17 Sep 2021,Boston,MA,"Science & Research|IT & Technology",4.0
